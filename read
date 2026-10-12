@@ -1,0 +1,19 @@
+##  Features
+- **Content Analysis:** Explore movies and TV shows.
+- **Genre Analysis:** Understand the distribution of content across genres.
+- **Country Analysis:** Explore Netflix content by country.
+- **Release Year Analysis:** Identify content trends over time.
+- **Interactive Visuals:** Filter and explore data using available slicers and charts.
+- **Visual Reporting:** Display key insights in an organized dashboard.
+##  How to Run the Project
+1. Download or clone this GitHub repository.
+2. Install Microsoft Power BI Desktop.
+3. Open the `netflix dashboard.pbix` file in Power BI Desktop.
+4. If Power BI requests access to the original dataset, connect to the correct data source or update the file path.
+5. Refresh the data if required.
+6. Explore the dashboard using its available charts, filters, and slicers.
+**Note:** A `.pbix` file is a Power BI project file. It is opened in Power BI Desktop rather than run like a normal website or application.
+##  Project Outcome
+This project demonstrates how data visualization can help users explore Netflix content and discover patterns in movies and TV shows through an interactive reporting interface.
+##  Project Type
+Data Analytics | Business Intelligence | Data Visualization
