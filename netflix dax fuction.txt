@@ -1,0 +1,8 @@
+
+| Dashboard Card     | DAX                                                                 |
+| ------------------ | ------------------------------------------------------------------- |
+| Total Content      | `DISTINCTCOUNT(sheet1[title])`                                     |
+| Number of Movies   | `CALCULATE(DISTINCTCOUNT(sheet1[title]), sheet1[type]="Movie")`   |
+| Number of Shows    | `CALCULATE(DISTINCTCOUNT(sheet1[title]), sheet1[type]="TV Show")` |
+| Average Runtime    | `AVERAGE(sheet1[Runtime Minutes])`                                 |
+| Average IMDb Score | `AVERAGE(sheet1[IMDb Score])`                                      |
